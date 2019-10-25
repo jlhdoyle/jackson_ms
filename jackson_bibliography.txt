@@ -1,0 +1,457 @@
+﻿@misc{RN54,
+   pages = {19:58},
+   month = {July 3},
+   url = {https://www.youtube.com/watch?v=RHcMIrd1wKE},
+   year = {2017},
+   type = {Film or Broadcast}
+}
+
+@misc{RN41,
+   month = {September 10},
+   url = {https://www.youtube.com/watch?time_continue=533&v=_Nt9Z2P7mPY},
+   year = {2018},
+   type = {Film or Broadcast}
+}
+
+@misc{RN24,
+   month = {January 18},
+   url = {https://www.youtube.com/watch?v=NHGcessn3pI},
+   year = {2018},
+   type = {Film or Broadcast}
+}
+
+@article{RN5,
+   author = {Ajl, Max},
+   title = {A Socialist Southern Strategy in Jackson},
+   journal = {Viewpoint Magazine},
+   month = {June 5},
+   url = {https://www.viewpointmag.com/2018/06/05/a-socialist-southern-strategy-in-jackson/},
+   year = {2018},
+   type = {Magazine Article}
+}
+
+@misc{RN6,
+   number = {May 23},
+   url = {http://navigatingthestorm.blogspot.com/2012/05/the-jackson-kush-plan-and-struggle-for.html},
+   year = {2012},
+   type = {Blog}
+}
+
+@book{RN2,
+   author = {Akuno, Kali},
+   title = {The Jackson-Kush Plan: The Struggle for Black Self-Determination and Economic Democracy},
+   publisher = {Malcolm X Grassroots Movement and New Afrikan People's Organization},
+   year = {2012},
+   type = {Book}
+}
+
+@techreport{RN4,
+   author = {Akuno, Kali},
+   title = {Casting Shadows: Chokwe Lumumba and the Struggle for Racial Justice and Economic Democracy in Jackson, Mississippi},
+   institution = {Rosa Luxembourg Stiftung New York Office},
+   month = {February},
+   url = {http://www.rosalux-nyc.org/wp-content/files_mf/kaliakuno_jackson_web.pdf},
+   year = {2015},
+   type = {Report}
+}
+
+@unpublished{RN8,
+   author = {Akuno, Kali},
+   title = {Build and Fight: The Program and Strategy of Cooperation Jackson},
+   address = {TruthOut},
+   url = {https://truthout.org/articles/build-and-fight-the-program-and-strategy-of-cooperation-jackson/},
+   year = {2017},
+   type = {Unpublished Work}
+}
+
+@misc{RN7,
+   number = {November 29},
+   url = {https://www.blackagendareport.com/casting-light-reflections-struggle-implement-jackson-kush-plan-part-1-response-comrade-bruce-dixon},
+   year = {2017},
+   type = {Blog}
+}
+
+@misc{RN9,
+   number = {February 17},
+   url = {https://cooperationjackson.org/blog/ecosocialismordeath},
+   year = {2019},
+   type = {Blog}
+}
+
+@article{RN15,
+   author = {Akuno, Kali and Azar, Riad and Colón, Saulo},
+   title = {Revolutionary Black Nationalism for the Twenty-first Century},
+   journal = {New Politics},
+   volume = {XV},
+   number = {3},
+   url = {https://newpol.org/issue_post/revolutionary-black-nationalism-twenty-first-century/},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN13,
+   author = {Anzilotti, Eillie},
+   title = {More U.S. businesses are becoming worker co-ops: here's why},
+   journal = {Fast Company},
+   month = {May 21},
+   url = {https://www.fastcompany.com/40572926/more-u-s-businesses-are-becoming-worker-co-ops-heres-why},
+   year = {2018},
+   type = {Magazine Article}
+}
+
+@article{RN16,
+   author = {Bakari, Akil and Didla, Noel},
+   title = {"Malcolm X Grassroots Movement Aligns with Just and Right Struggles Everywhere in the World"},
+   journal = {Prabuddha: Journal of Social Equality},
+   volume = {1},
+   pages = {3-12},
+   url = {http://www.prabuddha.us/index.php/pjse/article/view/11/12},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{RN17,
+   author = {Bamburg, Jill},
+   title = {Mondragon Through a Critical Lens},
+   journal = {Medium},
+   month = {October 3},
+   url = {https://medium.com/fifty-by-fifty/mondragon-through-a-critical-lens-b29de8c6049},
+   year = {2017},
+   type = {Magazine Article}
+}
+
+@article{RN58,
+   author = {Beard, Victoria A.},
+   title = {Learning Radical Planning: The Power of Collective Action},
+   journal = {Planning Theory},
+   volume = {2},
+   number = {1},
+   pages = {13-35},
+   DOI = {10.1177/1473095203002001004},
+   url = {https://journals.sagepub.com/doi/abs/10.1177/1473095203002001004},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN19,
+   author = {Bojić, Nikola},
+   title = {Social and Physical Planning: Two Approaches to Territorial Production in Socialist Yugoslavia between 1955 and 1963},
+   journal = {Architectural Histories},
+   volume = {6},
+   number = {1},
+   DOI = {http://doi.org/10.5334/ah.309},
+   url = {https://journal.eahn.org/articles/10.5334/ah.309/#},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@misc{RN20,
+   month = {February 20},
+   url = {https://theappeal.org/the-mayor-of-jackson-wants-to-hold-its-police-accountable-easier-said-than-done/},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
+@article{RN21,
+   author = {Brodwin, David},
+   title = {A Cleveland Success Story},
+   journal = {US News & World Report},
+   month = {July 21},
+   url = {https://www.usnews.com/opinion/articles/2016-07-21/evergreen-cooperative-is-a-cleveland-jobs-success-story},
+   year = {2016},
+   type = {Magazine Article}
+}
+
+@misc{RN14,
+   month = {October 16},
+   url = {https://atlantablackstar.com/2017/10/16/jackson-rising-saki-hall-cooperation-jackson-intersection-gender-economics/},
+   year = {2017},
+   type = {Newspaper Article}
+}
+
+@misc{RN33,
+   month = {February 12},
+   url = {https://cooperationjackson.org/blog/2015/2/12/economic-democracy-people-power-and-cooperative-alternatives-for-a-sustainable-black-future},
+   year = {2015},
+   type = {Press Release}
+}
+
+@misc{RN34,
+   url = {https://datausa.io/profile/geo/jackson-ms/},
+   type = {Web Page}
+}
+
+@article{RN23,
+   author = {Dayen, David},
+   title = {Alaska Gives Cash To Its Citizens Every Year. The Rest Of The U.S. Could Too.},
+   journal = {Huffington Post},
+   month = {August 28},
+   url = {https://www.huffpost.com/entry/sovereign-wealth-fund-for-america-alaska-norway_n_5b83ffb7e4b0cd327dfe878e},
+   year = {2018},
+   type = {Magazine Article}
+}
+
+@misc{RN25,
+   url = {https://institute.coop/what-worker-cooperative},
+   type = {Web Page}
+}
+
+@article{RN27,
+   author = {Flanders, Laura},
+   title = {After Death of Radical Mayor, Mississippi's Capital Wrestles With His Economic Vision },
+   journal = {YES! Magazine},
+   url = {https://www.yesmagazine.org/commonomics/mississippi-capital-jackson-wrestles-economic-vision},
+   year = {2014},
+   type = {Magazine Article}
+}
+
+@article{RN1,
+   author = {Gilbert, Katie},
+   title = {The Socialist Experiment},
+   journal = {Oxford American},
+   number = {98},
+   url = {https://www.oxfordamerican.org/item/1296-the-socialist-experiment},
+   year = {2017},
+   type = {Magazine Article}
+}
+
+@misc{RN3,
+   number = {December 14},
+   url = {https://cooperationjackson.org/blog/2018/12/13/2018-reflections-a-year-of-struggle-lessons-and-progress},
+   year = {2018},
+   type = {Blog}
+}
+
+@misc{RN22,
+   url = {https://cooperationjackson.org/sustainable-communities-initiative},
+   type = {Web Page}
+}
+
+@misc{RN28,
+   number = {June 24},
+   url = {https://cooperationjackson.org/blog/muralmagicinwestjackson},
+   year = {2019},
+   type = {Blog}
+}
+
+@misc{RN35,
+   url = {http://www.geo.coop/story/how-cooperation-jackson-transforming-poorest-state-us},
+   type = {Web Page}
+}
+
+@article{RN29,
+   author = {king, brandon},
+   title = {Building Power in a Frontline Community: The Cooperation Jackson Model},
+   journal = {Socialism and Democracy},
+   volume = {30},
+   number = {2},
+   pages = {219-224},
+   ISSN = {0885-4300},
+   DOI = {10.1080/08854300.2016.1195180},
+   url = {https://doi.org/10.1080/08854300.2016.1195180},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@misc{RN30,
+   number = {April 25},
+   url = {https://kingfish1935.blogspot.com/2017/04/meet-new-expert-on-jackson-vice.html},
+   year = {2017},
+   type = {Blog}
+}
+
+@misc{RN32,
+   month = {September 11},
+   url = {https://www.theguardian.com/us-news/2017/sep/11/revolutionary-not-a-liberal-radical-black-mayor-mississippi-chokwe-lumumba},
+   year = {2017},
+   type = {Newspaper Article}
+}
+
+@misc{RN36,
+   url = {http://inthesetimes.com/article/21632/green-new-deal-alexandria-ocasio-cortez-climate-cooperation-jackson-capital},
+   year = {2018},
+   type = {Newspaper Article}
+}
+
+@misc{RN31,
+   month = {January 8},
+   url = {https://www.wlbt.com/2019/01/09/jacksons-homicide-rate-ranks-highest-citys-history-per-fbi-data/},
+   year = {2018},
+   type = {Newspaper Article}
+}
+
+@article{RN11,
+   author = {Lim, Audrea},
+   title = {How the Green New Deal Can Deliver Land Justice},
+   journal = {Jacobin},
+   month = {May 19},
+   url = {https://jacobinmag.com/2019/05/farm-land-cooperation-jackson-environmental-sustainability},
+   year = {2019},
+   type = {Magazine Article}
+}
+
+@misc{RN37,
+   url = {http://www.geo.coop/node/35},
+   type = {Web Page}
+}
+
+@misc{RN38,
+   month = {May 15},
+   url = {http://www.jacksonfreepress.com/news/2013/may/15/what-lumumbas-jackson-plan/},
+   year = {2013},
+   type = {Newspaper Article}
+}
+
+@misc{RN39,
+   month = {May 1},
+   url = {https://mississippitoday.org/2017/05/01/can-city-state-relationship-be-saved-jackson-mayor-candidates-vow-to-try/},
+   year = {2017},
+   type = {Newspaper Article}
+}
+
+@article{RN40,
+   author = {Osborn, Robert J.},
+   title = {How the Russians plan their cities},
+   journal = {Trans-action},
+   volume = {3},
+   number = {6},
+   pages = {25-30},
+   ISSN = {1936-4725},
+   DOI = {10.1007/BF02804395},
+   url = {https://doi.org/10.1007/BF02804395},
+   year = {1966},
+   type = {Journal Article}
+}
+
+@misc{RN42,
+   number = {May 17},
+   url = {https://www.occupy.com/article/rebel-cities-4-warsaw-rights-city-means-clean-air-and-affordable-homes#sthash.8QiNt7xa.dflDNwzj.dpbs},
+   year = {2018},
+   type = {Blog}
+}
+
+@misc{RN43,
+   url = {https://urbaninstitute.group.shef.ac.uk/municipal-what-reflections-on-municipalsocialism-in-the-21st-century/},
+   type = {Web Page}
+}
+
+@misc{RN44,
+   month = {September 13},
+   url = {https://www.opendemocracy.net/en/jackson-rising/},
+   year = {2018},
+   type = {Web Page}
+}
+
+@article{RN45,
+   author = {Russell, Bertie},
+   title = {Beyond the Local Trap: New Municipalism and the Rise of the Fearless Cities},
+   journal = {Antipode},
+   volume = {51},
+   number = {3},
+   pages = {989-1010},
+   ISSN = {0066-4812},
+   DOI = {10.1111/anti.12520},
+   url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/anti.12520},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@misc{RN46,
+   month = {July 13},
+   url = {https://www.marxist.com/what-is-marxism-economics-materialism.htm},
+   year = {2005},
+   type = {Web Page}
+}
+
+@misc{RN10,
+   month = {May 31},
+   url = {https://www.independent.co.uk/news/business/indyventure/cooperation-jackson-solidarity-economy-neoliberalism-alternatives-a8936801.html},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
+@misc{RN12,
+   month = {April 22},
+   url = {https://mississippitoday.org/2019/04/22/afrofuturism-indigenous-people-and-intersectional-spaces-these-jackson-artists-hope-their-creations-inspire-a-community/},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
+@article{RN47,
+   author = {Sisson, Patrick},
+   title = {Can Minneapolis’s radical rezoning be a national model? },
+   journal = {Curbed},
+   url = {https://www.curbed.com/2018/11/27/18113208/minneapolis-real-estate-rent-development-2040-zoning},
+   year = {2018},
+   type = {Magazine Article}
+}
+
+@misc{RN48,
+   url = {http://solidaritynyc.org/#/about/solidaritynyc},
+   type = {Web Page}
+}
+
+@misc{RN49,
+   month = {April 18},
+   url = {https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2018/05/31.pdf},
+   year = {2018},
+   type = {Generic}
+}
+
+@article{RN50,
+   author = {Themba, Makani},
+   title = {The Most Radical City on the Planet},
+   journal = {Boston Review},
+   month = {April 29},
+   url = {http://bostonreview.net/print-issues-politics/makani-themba-most-radical-city-planet},
+   year = {2019},
+   type = {Magazine Article}
+}
+
+@misc{RN53,
+   number = {December 1},
+   url = {https://blogbamnbyanymeansnecessary.tumblr.com/post/168082522840/tell-no-lies-claim-no-easy-victories-response},
+   year = {2017},
+   type = {Blog}
+}
+
+@misc{RN59,
+   number = {April 29},
+   url = {https://oxfamblogs.org/fp2p/beyond-the-fringe-realizing-the-potential-of-social-and-solidarity-economy/},
+   year = {2013},
+   type = {Blog}
+}
+
+@misc{RN55,
+   month = {June 26},
+   url = {https://www.clarionledger.com/story/news/politics/2019/06/26/water-billing-lawsuit-siemens-residents-business-lawyer-peter-teeuwissen-mayor-jackson-ms/1569708001/},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
+@misc{RN52,
+   url = {https://www.clarionledger.com/story/news/local/2019/06/26/body-cameras-cams-jackson-ms-police-department-officers-city-purchases-transparency-police-brutality/1549494001/},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
+@misc{RN56,
+   month = {June 19},
+   url = {https://www.clarionledger.com/story/news/local/2019/06/19/city-of-jackson-residents-business-cite-siemens-lawsuit-against-water-cutoffs/1498714001/},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
+@misc{RN51,
+   url = {https://www.clarionledger.com/story/news/2019/06/20/jpd-brutality-case-video-settlement-reached-jackson-ms-caught-on-cellphone/1509544001/},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
+@misc{RN57,
+   month = {June 12},
+   url = {https://www.clarionledger.com/story/news/local/2019/06/12/jackson-sues-siemens-minority-owned-businesses-included-in-lawsuit-fire-back/1430458001/},
+   year = {2019},
+   type = {Newspaper Article}
+}
+
